@@ -5,6 +5,7 @@
 
 ## 🛠 Overview
 WINUpGen is a sophisticated Windows backdoor generation tool designed for security research and testing. It provides advanced features for creating stealthy, controlled remote access payloads.
+![image](https://github.com/user-attachments/assets/a89a2d3d-a3be-4915-a835-9da5229537d0)
 
 ## 🌟 Key Features
 - 🔒 Windows Executable (EXE) Payload Generation
