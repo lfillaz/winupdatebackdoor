@@ -47,7 +47,7 @@ WINUpGen is a sophisticated Windows backdoor generation tool designed for securi
 The author and contributors are not responsible for misuse. This tool is for educational purposes only.
 
 ## 🔒 License
-I'm Somali, I don't need a license.
+SECURITY.md
 
 ## 👤 Author
 @lfillaz
