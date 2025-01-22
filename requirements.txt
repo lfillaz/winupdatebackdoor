@@ -1,0 +1,12 @@
+PyQt5==5.15.9
+PyQt5-sip==12.12.1
+python-telegram-bot==20.3
+pynput==1.7.6
+cryptography==39.0.2
+requests==2.26.0
+nuitka==2.5.7
+pyinstaller==5.10.1
+zstandard==0.15.2
+ordered-set==4.1.0
+setuptools==67.6.1
+wheel==0.40.0

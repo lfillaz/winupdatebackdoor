@@ -1,0 +1,30 @@
+2025-01-22 07:38:41,026 - INFO - Payload generation started. Token length: 46, Admin ID length: 10
+2025-01-22 07:38:41,028 - INFO - Payload options: {'telegram_token': '7763427924:AAF_ZRMmpiNhD25-P1_X0bNR6pc3nybdxJs', 'telegram_admin_id': '1981670600', 'persistence': True, 'keylogger': True}
+2025-01-22 07:38:41,030 - DEBUG - PayloadGenerator initialized
+2025-01-22 07:38:41,031 - INFO - Selected payload format: Windows Executable (EXE)
+2025-01-22 07:38:41,031 - INFO - Generating payload with options: {'telegram_token': '7763427924:AAF_ZRMmpiNhD25-P1_X0bNR6pc3nybdxJs', 'telegram_admin_id': '1981670600', 'persistence': True, 'keylogger': True}
+2025-01-22 07:38:41,033 - INFO - Payload saved to C:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\payload.py
+2025-01-22 07:38:41,034 - INFO - Payload generated successfully
+2025-01-22 07:39:46,608 - INFO - Executable generated: C:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\WindowsUpdate.exe
+2025-01-22 07:39:46,609 - INFO - Payload generation method returned: C:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\WindowsUpdate.exe
+2025-01-22 07:39:46,611 - INFO - [+] Backdoor generated successfully in C:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\WindowsUpdate.exe
+2025-01-22 08:18:50,527 - INFO - Payload generation started. Token length: 46, Admin ID length: 10
+2025-01-22 08:18:50,528 - INFO - Payload options: {'telegram_token': '7763427924:AAF_ZRMmpiNhD25-P1_X0bNR6pc3nybdxJs', 'telegram_admin_id': '1981670600', 'persistence': True, 'keylogger': True}
+2025-01-22 08:18:50,528 - DEBUG - PayloadGenerator initialized
+2025-01-22 08:18:50,528 - INFO - Selected payload format: Windows Executable (EXE)
+2025-01-22 08:18:50,528 - INFO - Generating payload with options: {'telegram_token': '7763427924:AAF_ZRMmpiNhD25-P1_X0bNR6pc3nybdxJs', 'telegram_admin_id': '1981670600', 'persistence': True, 'keylogger': True}
+2025-01-22 08:18:50,818 - INFO - Payload saved to c:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\payload.py
+2025-01-22 08:18:50,818 - INFO - Payload generated successfully
+2025-01-22 08:20:13,617 - INFO - Executable generated: c:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\WindowsUpdate.exe
+2025-01-22 08:20:13,617 - INFO - Payload generation method returned: c:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\WindowsUpdate.exe
+2025-01-22 08:20:13,619 - INFO - [+] Backdoor generated successfully in c:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\WindowsUpdate.exe
+2025-01-22 08:46:29,701 - INFO - Payload generation started. Token length: 46, Admin ID length: 10
+2025-01-22 08:46:29,702 - INFO - Payload options: {'telegram_token': '7763427924:AAF_ZRMmpiNhD25-P1_X0bNR6pc3nybdxJs', 'telegram_admin_id': '1981670600', 'persistence': True, 'keylogger': True}
+2025-01-22 08:46:29,702 - DEBUG - PayloadGenerator initialized
+2025-01-22 08:46:29,702 - INFO - Selected payload format: Windows Executable (EXE)
+2025-01-22 08:46:29,703 - INFO - Generating payload with options: {'telegram_token': '7763427924:AAF_ZRMmpiNhD25-P1_X0bNR6pc3nybdxJs', 'telegram_admin_id': '1981670600', 'persistence': True, 'keylogger': True}
+2025-01-22 08:46:29,707 - INFO - Payload saved to C:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\payload.py
+2025-01-22 08:46:29,708 - INFO - Payload generated successfully
+2025-01-22 08:47:49,579 - INFO - Executable generated: C:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\WindowsUpdate.exe
+2025-01-22 08:47:49,580 - INFO - Payload generation method returned: C:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\WindowsUpdate.exe
+2025-01-22 08:47:49,589 - INFO - [+] Backdoor generated successfully in C:\Users\Al-kc\Desktop\tools\CIAbackdoor\output\WindowsUpdate.exe
