@@ -47,7 +47,7 @@ WINUpGen is a sophisticated Windows backdoor generation tool designed for securi
 The author and contributors are not responsible for misuse. This tool is for educational purposes only.
 
 ## 🔒 License
-SECURITY.md
+[SECURITY.md](https://github.com/lfillaz/winupdatebackdoor/blob/main/SECURITY.md)
 
 ## 👤 Author
 @lfillaz
